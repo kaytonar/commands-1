@@ -1,0 +1,7 @@
+connect to wifi
+WEP
+iwconfig wlan0 essid name key password
+
+
+
+WPA

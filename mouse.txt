@@ -1,0 +1,4 @@
+xinput set-prop "bcm5974" "Synaptics Tap Time" 
+
+xinput set-prop "bcm5974" "Synaptics Two-Finger Scrolling" 0
+0

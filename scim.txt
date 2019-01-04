@@ -1,0 +1,2 @@
+apt-get install libzip-dev libxml2-dev bison  libncurses5-dev libncursesw5-dev
+

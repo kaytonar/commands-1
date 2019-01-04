@@ -1,0 +1,2 @@
+xbacklight -get
+cbacklight -set 20
